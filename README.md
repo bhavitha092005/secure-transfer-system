@@ -112,16 +112,6 @@ secure-transfer-system/
 ├── mvnw / mvnw.cmd      # Maven wrapper
 └── README.md            # Project documentation
 
-## 📸 Demo (Optional)
-
-You can demonstrate:
-
-* User login
-* Message encryption & retrieval
-* File upload & download
-
-
-
 ## ⚠️ Limitations
 
 * Encryption keys are stored server-side for simplicity
